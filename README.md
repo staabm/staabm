@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staabm&show_icons=true" alt="oskarstark" /></p>
+
+### Contact
+<p align="center">
+<a href="https://twitter.com/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@markusstaab" height="30" width="30" /></a>
+</p>
