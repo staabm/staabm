@@ -26,7 +26,7 @@ I am curious and reading a lot regarding latest web technologies, web standards 
 In case I was able to help you out with my contributions in the past, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
 
 ### Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staabm&show_icons=true" alt="oskarstark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staabm&show_icons=true" alt="markusstaab" /></p>
 
 ### Contact
 <p align="center">
