@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**staabm/staabm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**staabm/staabm** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Markus and I am a open source enthusiast since 2010.
+My name is Markus and I am a open source enthusiast since 2010 ✨.
 
 Most of the time I am working on the [REDAXO CMS](https://github.com/redaxo/redaxo), focusing on latest web features and security. For 2 Years I was also maintainer of the popular [jQuery Validation library](https://github.com/jquery-validation).
 
@@ -25,8 +25,7 @@ I am curious and reading a lot regarding latest web technologies, web standards 
 
 In case I was able to help you out with my contributions in the past, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
 
-### Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staabm&show_icons=true" alt="markusstaab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staabm&show_icons=true&hide_border=1&custom_title=My%20contribution%20stats" alt="markusstaab" /></p>
 
 ### Contact
 <p align="center">
