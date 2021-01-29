@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Markus and I am a open source enthusiast since 2010 ✨.
+My name is Markus and I am a open source enthusiast since 2008 ✨.
 
 Most of the time I am working on the [REDAXO CMS](https://github.com/redaxo/redaxo), focusing on latest web features and security. For 2 Years I was also maintainer of the popular [jQuery Validation library](https://github.com/jquery-validation).
 
