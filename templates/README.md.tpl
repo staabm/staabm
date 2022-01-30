@@ -29,7 +29,7 @@ In case I was able to help you out with my contributions in the past, [please co
 ---
 
 #### 💻 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 15}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
