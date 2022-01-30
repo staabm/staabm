@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 My name is Markus and I am a open source enthusiast since 2008 ✨.
 
-Most of the time I am working on the [REDAXO CMS](https://github.com/redaxo/redaxo), focusing on latest web features and security. For 2 Years I was also maintainer of the popular [jQuery Validation library](https://github.com/jquery-validation).
+I am the developer behind `cs2pr`, `phpstan-dba` and a few more projects.
 
-For fun and educating myself I also actively contribute to various projects - [PHPStan](https://github.com/phpstan/phpstan-src), [filp/whoops](https://github.com/filp/whoops), [sabre/dav](https://github.com/sabre-io/dav), [stomp-php](https://github.com/stomp-php/stomp-php), [propelorm](https://github.com/propelorm) - to name a few of them.
+For fun and educating myself I actively contribute to various projects - [PHPStan](https://github.com/phpstan/phpstan-src), [filp/whoops](https://github.com/filp/whoops), [sabre/dav](https://github.com/sabre-io/dav), [stomp-php](https://github.com/stomp-php/stomp-php), [propelorm](https://github.com/propelorm) - to name a few of them.
 
 I am curious and reading a lot regarding latest web technologies, web standards and browser development. My passion is working on performance problems and figuring out crazy bugs 🐜.
 
