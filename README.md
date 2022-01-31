@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.4](https://github.com/phpstan/phpstan/releases/tag/1.4.4) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.1](https://github.com/doctrine/dbal/releases/tag/3.3.1) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.3](https://github.com/phpstan/phpstan/releases/tag/1.4.3) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.19.0](https://github.com/vimeo/psalm/releases/tag/4.19.0) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.11](https://github.com/staabm/phpstan-dba/releases/tag/0.2.11) (4 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.19.3](https://github.com/qossmic/deptrac/releases/tag/0.19.3) (4 days ago)
