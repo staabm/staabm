@@ -17,9 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (3 days ago)
-- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (3 days ago)
 - [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
