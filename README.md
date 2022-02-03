@@ -17,12 +17,12 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 day ago)
+- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (today)
+- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (4 days ago)
-- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (4 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
