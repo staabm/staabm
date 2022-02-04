@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.14](https://github.com/staabm/phpstan-dba/releases/tag/0.2.14) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.15](https://github.com/staabm/phpstan-dba/releases/tag/0.2.15) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.5](https://github.com/phpstan/phpstan/releases/tag/1.4.5) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.1](https://github.com/doctrine/dbal/releases/tag/3.3.1) (5 days ago)
