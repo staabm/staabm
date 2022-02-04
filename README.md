@@ -18,6 +18,7 @@ In case I was able to help you out with my contributions in the past, [please co
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [doctrine/dbal](https://github.com/doctrine/dbal) (today)
 - [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (1 day ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 day ago)
 - [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (1 day ago)
@@ -26,12 +27,11 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) (2 weeks ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) (2 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 weeks ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) (3 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (4 weeks ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) (1 month ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 
 ---
 
