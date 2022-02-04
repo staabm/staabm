@@ -45,8 +45,8 @@ In case I was able to help you out with my contributions in the past, [please co
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.19.3](https://github.com/qossmic/deptrac/releases/tag/0.19.3) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.0) (1 week ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - [RELEASE_4_9_9](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_4_9_9) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [1.0.1](https://github.com/composer/pcre/releases/tag/1.0.1) (2 weeks ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.2.0](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.2.0) (2 weeks ago)
 
 ---
 
