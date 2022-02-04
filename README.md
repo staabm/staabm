@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.2.6](https://github.com/composer/composer/releases/tag/2.2.6) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.15](https://github.com/staabm/phpstan-dba/releases/tag/0.2.15) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.5](https://github.com/phpstan/phpstan/releases/tag/1.4.5) (2 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.0) (1 week ago)
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - [RELEASE_4_9_9](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_4_9_9) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [1.0.1](https://github.com/composer/pcre/releases/tag/1.0.1) (2 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.5](https://github.com/composer/composer/releases/tag/2.2.5) (2 weeks ago)
 
 ---
 
