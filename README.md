@@ -37,11 +37,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.16](https://github.com/staabm/phpstan-dba/releases/tag/0.2.16) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.6](https://github.com/composer/composer/releases/tag/2.2.6) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.5](https://github.com/phpstan/phpstan/releases/tag/1.4.5) (4 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.19.3](https://github.com/qossmic/deptrac/releases/tag/0.19.3) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.0) (2 weeks ago)
