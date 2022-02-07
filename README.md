@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.16](https://github.com/staabm/phpstan-dba/releases/tag/0.2.16) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2) (2 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.0) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [1.0.1](https://github.com/composer/pcre/releases/tag/1.0.1) (2 weeks ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.2.0](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.2.0) (3 weeks ago)
 
 ---
 
