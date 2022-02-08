@@ -17,26 +17,27 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (today)
 - [staabm/phpstane-ext-bug55](https://github.com/staabm/phpstane-ext-bug55) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (4 days ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (5 days ago)
 - [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) (2 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 weeks ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) (4 weeks ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) - [1.5.2](https://github.com/staabm/complex-library-installer/releases/tag/1.5.2) (today)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.16](https://github.com/staabm/phpstan-dba/releases/tag/0.2.16) (3 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.19.3](https://github.com/qossmic/deptrac/releases/tag/0.19.3) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.0) (2 weeks ago)
-- [composer/pcre](https://github.com/composer/pcre) - [1.0.1](https://github.com/composer/pcre/releases/tag/1.0.1) (2 weeks ago)
 
 ---
 
