@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (today)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) - [1.5.2](https://github.com/staabm/complex-library-installer/releases/tag/1.5.2) (1 day ago)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (3 days ago)
@@ -45,7 +46,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [composer/composer](https://github.com/composer/composer) - [2.2.6](https://github.com/composer/composer/releases/tag/2.2.6) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0) (6 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.19.3](https://github.com/qossmic/deptrac/releases/tag/0.19.3) (1 week ago)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (2 weeks ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.0) (2 weeks ago)
 
 ---
