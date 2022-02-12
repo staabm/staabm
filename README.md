@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (4 days ago)
