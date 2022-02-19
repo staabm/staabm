@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.18](https://github.com/staabm/phpstan-dba/releases/tag/0.2.18) (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.19](https://github.com/staabm/phpstan-dba/releases/tag/0.2.19) (today)
 - [php-http/message](https://github.com/php-http/message) - [1.13.0](https://github.com/php-http/message/releases/tag/1.13.0) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (1 week ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) - [1.5.2](https://github.com/staabm/complex-library-installer/releases/tag/1.5.2) (1 week ago)
