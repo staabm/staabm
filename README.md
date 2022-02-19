@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.19](https://github.com/staabm/phpstan-dba/releases/tag/0.2.19) (today)
 - [php-http/message](https://github.com/php-http/message) - [1.13.0](https://github.com/php-http/message/releases/tag/1.13.0) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (1 week ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.6](https://github.com/composer/composer/releases/tag/2.2.6) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0) (2 weeks ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.19.3](https://github.com/qossmic/deptrac/releases/tag/0.19.3) (3 weeks ago)
 
 ---
 
