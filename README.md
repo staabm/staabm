@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (today)
-- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (3 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 day ago)
+- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (4 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (2 weeks ago)
@@ -29,7 +29,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 month ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) (1 month ago)
 
@@ -37,13 +37,13 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.21.0](https://github.com/vimeo/psalm/releases/tag/4.21.0) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.20](https://github.com/staabm/phpstan-dba/releases/tag/0.2.20) (1 day ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.21.0](https://github.com/vimeo/psalm/releases/tag/4.21.0) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.20](https://github.com/staabm/phpstan-dba/releases/tag/0.2.20) (2 days ago)
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (2 days ago)
 - [php-http/message](https://github.com/php-http/message) - [1.13.0](https://github.com/php-http/message/releases/tag/1.13.0) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (1 week ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) - [1.5.2](https://github.com/staabm/complex-library-installer/releases/tag/1.5.2) (1 week ago)
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0) (1 week ago)
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (2 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.6](https://github.com/composer/composer/releases/tag/2.2.6) (2 weeks ago)
