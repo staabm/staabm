@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 days ago)
-- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (5 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (5 days ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (2 weeks ago)
