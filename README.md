@@ -17,21 +17,21 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (6 days ago)
-- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (2 weeks ago)
-- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (2 weeks ago)
 - [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
+- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (2 weeks ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 month ago)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) (1 month ago)
 
 ---
 
