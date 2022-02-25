@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/pcre](https://github.com/composer/pcre) - [3.0.0](https://github.com/composer/pcre/releases/tag/3.0.0) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (today)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.1](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.21](https://github.com/staabm/phpstan-dba/releases/tag/0.2.21) (4 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [php-http/message](https://github.com/php-http/message) - [1.13.0](https://github.com/php-http/message/releases/tag/1.13.0) (2 weeks ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (2 weeks ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) - [1.5.2](https://github.com/staabm/complex-library-installer/releases/tag/1.5.2) (2 weeks ago)
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0) (2 weeks ago)
 
 ---
 
