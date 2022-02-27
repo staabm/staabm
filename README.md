@@ -27,9 +27,9 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (3 weeks ago)
-- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (3 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 weeks ago)
 - [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (3 weeks ago)
+- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (3 weeks ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 
