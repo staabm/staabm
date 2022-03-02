@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.7](https://github.com/phpstan/phpstan/releases/tag/1.4.7) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (3 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.0](https://github.com/composer/pcre/releases/tag/3.0.0) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (5 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (1 week ago)
 - [php-http/message](https://github.com/php-http/message) - [1.13.0](https://github.com/php-http/message/releases/tag/1.13.0) (2 weeks ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (3 weeks ago)
-- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) - [1.5.2](https://github.com/staabm/complex-library-installer/releases/tag/1.5.2) (3 weeks ago)
 
 ---
 
