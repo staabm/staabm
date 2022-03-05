@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
