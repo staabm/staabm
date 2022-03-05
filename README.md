@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -27,9 +27,9 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (3 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (4 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 weeks ago)
-- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (4 weeks ago)
-- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (4 weeks ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
+- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (1 month ago)
+- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (1 month ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 month ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 
@@ -37,15 +37,15 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.8](https://github.com/phpstan/phpstan/releases/tag/1.4.8) (today)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.22](https://github.com/staabm/phpstan-dba/releases/tag/0.2.22) (2 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.8](https://github.com/phpstan/phpstan/releases/tag/1.4.8) (1 day ago)
+- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.22](https://github.com/staabm/phpstan-dba/releases/tag/0.2.22) (3 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.0](https://github.com/composer/pcre/releases/tag/3.0.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.1](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.1) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) - [10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0) (1 week ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (1 week ago)
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (2 weeks ago)
 - [php-http/message](https://github.com/php-http/message) - [1.13.0](https://github.com/php-http/message/releases/tag/1.13.0) (3 weeks ago)
 
 ---
