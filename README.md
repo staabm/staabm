@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.4](https://github.com/phpbench/phpbench/releases/tag/1.2.4) (1 day ago)
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.8](https://github.com/phpstan/phpstan/releases/tag/1.4.8) (2 days ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.22](https://github.com/staabm/phpstan-dba/releases/tag/0.2.22) (4 days ago)
