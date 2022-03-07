@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -37,15 +37,15 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.8](https://github.com/phpstan/phpstan/releases/tag/1.4.8) (2 days ago)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.22](https://github.com/staabm/phpstan-dba/releases/tag/0.2.22) (4 days ago)
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.8](https://github.com/phpstan/phpstan/releases/tag/1.4.8) (3 days ago)
+- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.22](https://github.com/staabm/phpstan-dba/releases/tag/0.2.22) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.0](https://github.com/composer/pcre/releases/tag/3.0.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.1](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.1) (1 week ago)
-- [symplify/symplify](https://github.com/symplify/symplify) - [10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0) (1 week ago)
+- [symplify/symplify](https://github.com/symplify/symplify) - [10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0) (2 weeks ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.5.1](https://github.com/KnpLabs/php-github-api/releases/tag/v3.5.1) (2 weeks ago)
 
 ---
