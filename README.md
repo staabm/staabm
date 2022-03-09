@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.7) (today)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.7.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.7.0) (2 days ago)
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.8](https://github.com/phpstan/phpstan/releases/tag/1.4.8) (5 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.0](https://github.com/composer/pcre/releases/tag/3.0.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.1](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.1) (1 week ago)
-- [symplify/symplify](https://github.com/symplify/symplify) - [10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0) (2 weeks ago)
 
 ---
 
