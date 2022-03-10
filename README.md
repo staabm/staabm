@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.7) (1 day ago)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.7.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.7.0) (3 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.22](https://github.com/staabm/phpstan-dba/releases/tag/0.2.22) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.0](https://github.com/composer/pcre/releases/tag/3.0.0) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (1 week ago)
 
 ---
 
