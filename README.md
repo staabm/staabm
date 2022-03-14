@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.9](https://github.com/phpstan/phpstan/releases/tag/1.4.9) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.10](https://github.com/phpstan/phpstan/releases/tag/1.4.10) (today)
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (4 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3) (5 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.7) (5 days ago)
