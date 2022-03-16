@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.2.9](https://github.com/composer/composer/releases/tag/2.2.9) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.0-RC1](https://github.com/composer/composer/releases/tag/2.3.0-RC1) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.8) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.10](https://github.com/phpstan/phpstan/releases/tag/1.4.10) (2 days ago)
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (6 days ago)
