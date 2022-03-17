@@ -17,12 +17,13 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (4 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
@@ -31,7 +32,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (1 month ago)
 - [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (1 month ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 month ago)
 
 ---
 
