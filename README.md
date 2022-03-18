@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.7](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.7) (today)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0) (today)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.6](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.6) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.23](https://github.com/staabm/phpstan-dba/releases/tag/0.2.23) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.0-RC1](https://github.com/composer/composer/releases/tag/2.3.0-RC1) (2 days ago)
