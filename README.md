@@ -46,7 +46,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3) (1 week ago)
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (1 week ago)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (2 weeks ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (2 weeks ago)
 
 ---
 
