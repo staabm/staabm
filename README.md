@@ -27,10 +27,10 @@ In case I was able to help you out with my contributions in the past, [please co
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (4 weeks ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 month ago)
-- [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
+- [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (1 month ago)
-- [staabm/rector-view-scope](https://github.com/staabm/rector-view-scope) (1 month ago)
+- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 
 ---
