@@ -37,11 +37,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.0-RC2](https://github.com/composer/composer/releases/tag/2.3.0-RC2) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.7](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.7) (2 days ago)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.23](https://github.com/staabm/phpstan-dba/releases/tag/0.2.23) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.0-RC1](https://github.com/composer/composer/releases/tag/2.3.0-RC1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.10](https://github.com/phpstan/phpstan/releases/tag/1.4.10) (6 days ago)
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3) (1 week ago)
