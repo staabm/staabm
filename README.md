@@ -18,20 +18,20 @@ In case I was able to help you out with my contributions in the past, [please co
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (6 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (3 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 weeks ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (4 weeks ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 month ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (1 month ago)
-- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
+- [staabm/phpunit-cross-os](https://github.com/staabm/phpunit-cross-os) (1 month ago)
 
 ---
 
