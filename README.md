@@ -17,15 +17,15 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (3 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 weeks ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 weeks ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 month ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
@@ -37,14 +37,14 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.8](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.8) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.3.0-RC2](https://github.com/composer/composer/releases/tag/2.3.0-RC2) (2 days ago)
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.23](https://github.com/staabm/phpstan-dba/releases/tag/0.2.23) (5 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9) (6 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.8](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.8) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.0-RC2](https://github.com/composer/composer/releases/tag/2.3.0-RC2) (3 days ago)
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.23](https://github.com/staabm/phpstan-dba/releases/tag/0.2.23) (6 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.10](https://github.com/phpstan/phpstan/releases/tag/1.4.10) (1 week ago)
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (1 week ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3) (1 week ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3) (2 weeks ago)
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0) (3 weeks ago)
 
