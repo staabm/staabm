@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.3](https://github.com/phpro/soap-client/releases/tag/v1.7.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.0](https://github.com/phpstan/phpstan/releases/tag/1.5.0) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4) (1 day ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.6.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.6.0) (1 day ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.23](https://github.com/staabm/phpstan-dba/releases/tag/0.2.23) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9) (1 week ago)
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (2 weeks ago)
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) - [1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5) (2 weeks ago)
 
 ---
 
