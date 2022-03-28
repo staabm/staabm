@@ -37,10 +37,10 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.1](https://github.com/phpstan/phpstan/releases/tag/1.5.1) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.4.4](https://github.com/paratestphp/paratest/releases/tag/v6.4.4) (today)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.3](https://github.com/phpro/soap-client/releases/tag/v1.7.3) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.0](https://github.com/phpstan/phpstan/releases/tag/1.5.0) (4 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4) (4 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.8](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.8) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.0-RC2](https://github.com/composer/composer/releases/tag/2.3.0-RC2) (1 week ago)
