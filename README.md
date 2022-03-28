@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.4.4](https://github.com/paratestphp/paratest/releases/tag/v6.4.4) (today)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.3](https://github.com/phpro/soap-client/releases/tag/v1.7.3) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.0](https://github.com/phpstan/phpstan/releases/tag/1.5.0) (4 days ago)
@@ -45,7 +46,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [composer/composer](https://github.com/composer/composer) - [2.3.0-RC2](https://github.com/composer/composer/releases/tag/2.3.0-RC2) (1 week ago)
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - [v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.23](https://github.com/staabm/phpstan-dba/releases/tag/0.2.23) (1 week ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9) (1 week ago)
 - [nette/di](https://github.com/nette/di) - [v3.0.13](https://github.com/nette/di/releases/tag/v3.0.13) (2 weeks ago)
 
 ---
