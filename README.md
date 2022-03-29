@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.1](https://github.com/phpstan/phpstan/releases/tag/1.5.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.2](https://github.com/phpstan/phpstan/releases/tag/1.5.2) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.4.4](https://github.com/paratestphp/paratest/releases/tag/v6.4.4) (1 day ago)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.3](https://github.com/phpro/soap-client/releases/tag/v1.7.3) (4 days ago)
