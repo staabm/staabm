@@ -17,27 +17,27 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [composer/composer](https://github.com/composer/composer) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 month ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
-- [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.2.10](https://github.com/composer/composer/releases/tag/2.2.10) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.0](https://github.com/composer/composer/releases/tag/2.3.0) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.2](https://github.com/staabm/SysMonitor/releases/tag/1.0.2) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.2](https://github.com/phpstan/phpstan/releases/tag/1.5.2) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (2 days ago)
