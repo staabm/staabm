@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) (4 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) (6 days ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) (5 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 week ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
@@ -37,11 +37,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.3.3](https://github.com/composer/composer/releases/tag/2.3.3) (2 days ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.3](https://github.com/staabm/SysMonitor/releases/tag/1.0.3) (2 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (6 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.4.4](https://github.com/paratestphp/paratest/releases/tag/v6.4.4) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.3](https://github.com/composer/composer/releases/tag/2.3.3) (3 days ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.3](https://github.com/staabm/SysMonitor/releases/tag/1.0.3) (3 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (1 week ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.4.4](https://github.com/paratestphp/paratest/releases/tag/v6.4.4) (1 week ago)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.3](https://github.com/phpro/soap-client/releases/tag/v1.7.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.0-rc.8](https://github.com/deployphp/deployer/releases/tag/v7.0.0-rc.8) (1 week ago)
