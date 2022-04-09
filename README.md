@@ -17,8 +17,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 week ago)
@@ -30,16 +30,16 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 - [staabm/zf-select-strip](https://github.com/staabm/zf-select-strip) (1 month ago)
-- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 months ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.3.4](https://github.com/composer/composer/releases/tag/2.3.4) (1 day ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.4](https://github.com/composer/composer/releases/tag/2.3.4) (2 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (6 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.3](https://github.com/staabm/SysMonitor/releases/tag/1.0.3) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.10) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.4.4](https://github.com/paratestphp/paratest/releases/tag/v6.4.4) (1 week ago)
