@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.2](https://github.com/micronax/carbon-german-holidays/releases/tag/2.2) (today)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) - [1.0](https://github.com/staabm/http-cache-control/releases/tag/1.0) (2 days ago)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.1](https://github.com/micronax/carbon-german-holidays/releases/tag/2.1) (3 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.0.0](https://github.com/zenstruck/browser/releases/tag/v1.0.0) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.4](https://github.com/composer/composer/releases/tag/2.3.4) (6 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5) (1 week ago)
