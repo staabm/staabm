@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [3.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.11) (today)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.0) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (1 day ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.2](https://github.com/micronax/carbon-german-holidays/releases/tag/2.2) (1 day ago)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) - [1.0](https://github.com/staabm/http-cache-control/releases/tag/1.0) (3 days ago)
