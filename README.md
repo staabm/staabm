@@ -17,9 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [zenstruck/browser](https://github.com/zenstruck/browser) (1 day ago)
-- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (2 days ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (2 days ago)
+- [zenstruck/browser](https://github.com/zenstruck/browser) (2 days ago)
+- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (3 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (3 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
@@ -27,8 +27,8 @@ In case I was able to help you out with my contributions in the past, [please co
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (4 weeks ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (4 weeks ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
@@ -37,10 +37,10 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (today)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.2](https://github.com/micronax/carbon-german-holidays/releases/tag/2.2) (today)
-- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) - [1.0](https://github.com/staabm/http-cache-control/releases/tag/1.0) (2 days ago)
-- [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.0.0](https://github.com/zenstruck/browser/releases/tag/v1.0.0) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (1 day ago)
+- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.2](https://github.com/micronax/carbon-german-holidays/releases/tag/2.2) (1 day ago)
+- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) - [1.0](https://github.com/staabm/http-cache-control/releases/tag/1.0) (3 days ago)
+- [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.0.0](https://github.com/zenstruck/browser/releases/tag/v1.0.0) (6 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.3](https://github.com/staabm/SysMonitor/releases/tag/1.0.3) (1 week ago)
