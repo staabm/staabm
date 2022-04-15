@@ -37,9 +37,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.6](https://github.com/phpstan/phpstan/releases/tag/1.5.6) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (1 day ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.1.0](https://github.com/zenstruck/browser/releases/tag/v1.1.0) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.5](https://github.com/phpstan/phpstan/releases/tag/1.5.5) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.7.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.7.1) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.0) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (2 days ago)
