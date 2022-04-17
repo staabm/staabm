@@ -19,8 +19,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (5 days ago)
-- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (6 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (6 days ago)
+- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (6 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
