@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 week ago)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (1 week ago)
