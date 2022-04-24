@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 week ago)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (1 week ago)
@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.24](https://github.com/staabm/phpstan-dba/releases/tag/0.2.24) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.7](https://github.com/phpstan/phpstan/releases/tag/1.5.7) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.24](https://github.com/staabm/phpstan-dba/releases/tag/0.2.24) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.7](https://github.com/phpstan/phpstan/releases/tag/1.5.7) (4 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (1 week ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.1.0](https://github.com/zenstruck/browser/releases/tag/v1.1.0) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.7.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.7.1) (1 week ago)
