@@ -17,6 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [composer/composer](https://github.com/composer/composer) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (2 weeks ago)
@@ -25,7 +26,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 weeks ago)
-- [composer/composer](https://github.com/composer/composer) (4 weeks ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
