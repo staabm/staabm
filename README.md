@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.2](https://github.com/phpstan/phpstan/releases/tag/1.6.2) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.0) (2 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.24](https://github.com/staabm/phpstan-dba/releases/tag/0.2.24) (6 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (2 weeks ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.1.0](https://github.com/zenstruck/browser/releases/tag/v1.1.0) (2 weeks ago)
