@@ -17,9 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [composer/composer](https://github.com/composer/composer) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (2 weeks ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (2 weeks ago)
@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.24](https://github.com/staabm/phpstan-dba/releases/tag/0.2.24) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (2 weeks ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.1.0](https://github.com/zenstruck/browser/releases/tag/v1.1.0) (2 weeks ago)
