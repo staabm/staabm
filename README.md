@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.6](https://github.com/doctrine/dbal/releases/tag/3.3.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.4](https://github.com/phpstan/phpstan/releases/tag/1.6.4) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.2) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0) (today)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.7.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.7.1) (2 weeks ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.0) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (2 weeks ago)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.2](https://github.com/micronax/carbon-german-holidays/releases/tag/2.2) (2 weeks ago)
 
 ---
 
