@@ -17,13 +17,13 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (2 weeks ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (2 weeks ago)
-- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (2 weeks ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (3 weeks ago)
+- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (3 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 month ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (3 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.24](https://github.com/staabm/phpstan-dba/releases/tag/0.2.24) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (2 weeks ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.1.0](https://github.com/zenstruck/browser/releases/tag/v1.1.0) (2 weeks ago)
@@ -46,7 +46,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.0) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (2 weeks ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.2](https://github.com/micronax/carbon-german-holidays/releases/tag/2.2) (2 weeks ago)
-- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) - [1.0](https://github.com/staabm/http-cache-control/releases/tag/1.0) (2 weeks ago)
+- [staabm/http-cache-control](https://github.com/staabm/http-cache-control) - [1.0](https://github.com/staabm/http-cache-control/releases/tag/1.0) (3 weeks ago)
 
 ---
 
