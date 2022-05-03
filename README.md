@@ -17,6 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -27,10 +28,9 @@ In case I was able to help you out with my contributions in the past, [please co
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (4 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 month ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (2 months ago)
 
 ---
