@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.13.3](https://github.com/redaxo/redaxo/releases/tag/5.13.3) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.6](https://github.com/doctrine/dbal/releases/tag/3.3.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.4](https://github.com/phpstan/phpstan/releases/tag/1.6.4) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.2) (1 day ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.1.0](https://github.com/zenstruck/browser/releases/tag/v1.1.0) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.7.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.7.1) (2 weeks ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.0) (2 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (2 weeks ago)
 
 ---
 
