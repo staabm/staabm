@@ -37,9 +37,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [3.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/3.1.0) (3 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.20.0](https://github.com/qossmic/deptrac/releases/tag/0.20.0) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.7](https://github.com/phpstan/phpstan/releases/tag/1.6.7) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.3) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.13.3](https://github.com/redaxo/redaxo/releases/tag/5.13.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.6](https://github.com/doctrine/dbal/releases/tag/3.3.6) (1 week ago)
