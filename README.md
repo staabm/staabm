@@ -17,8 +17,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (5 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [3.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/3.1.0) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.20.0](https://github.com/qossmic/deptrac/releases/tag/0.20.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.3) (1 week ago)
