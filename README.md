@@ -19,6 +19,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
@@ -31,13 +32,12 @@ In case I was able to help you out with my contributions in the past, [please co
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 months ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 months ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.25](https://github.com/staabm/phpstan-dba/releases/tag/0.2.25) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.26](https://github.com/staabm/phpstan-dba/releases/tag/0.2.26) (today)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.4](https://github.com/phpro/soap-client/releases/tag/v1.7.4) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.1](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (1 week ago)
