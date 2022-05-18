@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 month ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (1 month ago)
