@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.25](https://github.com/staabm/phpstan-dba/releases/tag/0.2.25) (today)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.4](https://github.com/phpro/soap-client/releases/tag/v1.7.4) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.1](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (1 week ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.13.3](https://github.com/redaxo/redaxo/releases/tag/5.13.3) (2 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.6](https://github.com/doctrine/dbal/releases/tag/3.3.6) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.24](https://github.com/staabm/phpstan-dba/releases/tag/0.2.24) (3 weeks ago)
 
 ---
 
