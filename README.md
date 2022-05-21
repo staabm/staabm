@@ -37,12 +37,12 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.9](https://github.com/phpstan/phpstan/releases/tag/1.6.9) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.28](https://github.com/staabm/phpstan-dba/releases/tag/0.2.28) (1 day ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (1 day ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (2 days ago)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.4](https://github.com/phpro/soap-client/releases/tag/v1.7.4) (4 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.1](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.1) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [3.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/3.1.0) (2 weeks ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.20.0](https://github.com/qossmic/deptrac/releases/tag/0.20.0) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.3) (2 weeks ago)
