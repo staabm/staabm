@@ -19,6 +19,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
@@ -31,7 +32,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 month ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 months ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (2 months ago)
 
 ---
 
