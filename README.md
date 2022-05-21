@@ -17,6 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (today)
@@ -31,7 +32,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 month ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 months ago)
 
 ---
 
