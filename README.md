@@ -37,16 +37,16 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.32](https://github.com/staabm/phpstan-dba/releases/tag/0.2.32) (today)
+- [composer/composer](https://github.com/composer/composer) - [2.2.13](https://github.com/composer/composer/releases/tag/2.2.13) (today)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.2](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.2) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.33](https://github.com/staabm/phpstan-dba/releases/tag/0.2.33) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.1](https://github.com/phpstan/phpstan/releases/tag/1.7.1) (1 day ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (5 days ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (6 days ago)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.4](https://github.com/phpro/soap-client/releases/tag/v1.7.4) (1 week ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.1](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.1) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [3.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/3.1.0) (2 weeks ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.20.0](https://github.com/qossmic/deptrac/releases/tag/0.20.0) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.3) (3 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.13.3](https://github.com/redaxo/redaxo/releases/tag/5.13.3) (3 weeks ago)
 
 ---
 
