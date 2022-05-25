@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.31](https://github.com/staabm/phpstan-dba/releases/tag/0.2.31) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.32](https://github.com/staabm/phpstan-dba/releases/tag/0.2.32) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.1](https://github.com/phpstan/phpstan/releases/tag/1.7.1) (1 day ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (5 days ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (6 days ago)
