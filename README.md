@@ -17,8 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (today)
 - [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (3 days ago)
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
@@ -31,7 +32,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (1 month ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (1 month ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 month ago)
 
 ---
 
