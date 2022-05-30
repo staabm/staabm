@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.5](https://github.com/phpstan/phpstan/releases/tag/1.7.5) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.6](https://github.com/phpstan/phpstan/releases/tag/1.7.6) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [3.1.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/3.1.1) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.35](https://github.com/staabm/phpstan-dba/releases/tag/0.2.35) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.13](https://github.com/composer/composer/releases/tag/2.2.13) (5 days ago)
