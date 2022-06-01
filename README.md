@@ -37,9 +37,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.8](https://github.com/phpstan/phpstan/releases/tag/1.7.8) (today)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.37](https://github.com/staabm/phpstan-dba/releases/tag/0.2.37) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.7](https://github.com/phpstan/phpstan/releases/tag/1.7.7) (1 day ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [3.1.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/3.1.1) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.13](https://github.com/composer/composer/releases/tag/2.2.13) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.2](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.2) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (1 week ago)
