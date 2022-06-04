@@ -17,12 +17,12 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (5 days ago)
 - [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (1 week ago)
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (1 week ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
@@ -31,21 +31,21 @@ In case I was able to help you out with my contributions in the past, [please co
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 month ago)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (1 month ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (1 month ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.10](https://github.com/phpstan/phpstan/releases/tag/1.7.10) (today)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.3) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.3.6](https://github.com/composer/composer/releases/tag/2.3.6) (2 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.0) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.37](https://github.com/staabm/phpstan-dba/releases/tag/0.2.37) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.10](https://github.com/phpstan/phpstan/releases/tag/1.7.10) (1 day ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.3) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.6](https://github.com/composer/composer/releases/tag/2.3.6) (3 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.0) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.37](https://github.com/staabm/phpstan-dba/releases/tag/0.2.37) (4 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (2 weeks ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (2 weeks ago)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.4](https://github.com/phpro/soap-client/releases/tag/v1.7.4) (2 weeks ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.20.0](https://github.com/qossmic/deptrac/releases/tag/0.20.0) (4 weeks ago)
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.20.0](https://github.com/qossmic/deptrac/releases/tag/0.20.0) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.3) (1 month ago)
 
 ---
