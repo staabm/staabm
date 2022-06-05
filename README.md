@@ -20,6 +20,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (6 days ago)
 - [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (1 week ago)
@@ -31,7 +32,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 month ago)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (1 month ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (1 month ago)
 
 ---
 
