@@ -17,7 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (6 days ago)
 - [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (1 week ago)
@@ -27,11 +29,9 @@ In case I was able to help you out with my contributions in the past, [please co
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 month ago)
 - [staabm/http-cache-control](https://github.com/staabm/http-cache-control) (1 month ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (1 month ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 months ago)
 
 ---
 
