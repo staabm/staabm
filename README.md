@@ -17,9 +17,10 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (1 week ago)
@@ -29,7 +30,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
-- [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 month ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (1 month ago)
 
@@ -37,10 +37,10 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.10](https://github.com/phpstan/phpstan/releases/tag/1.7.10) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.3) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.6](https://github.com/composer/composer/releases/tag/2.3.6) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.37](https://github.com/staabm/phpstan-dba/releases/tag/0.2.37) (6 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (2 weeks ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (2 weeks ago)
