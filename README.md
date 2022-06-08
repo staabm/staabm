@@ -17,17 +17,17 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [composer/composer](https://github.com/composer/composer) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (1 week ago)
 - [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (1 week ago)
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (2 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) (1 month ago)
@@ -37,11 +37,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.11](https://github.com/phpstan/phpstan/releases/tag/1.7.11) (today)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.21.0](https://github.com/qossmic/deptrac/releases/tag/0.21.0) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (1 day ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.1) (3 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.3) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.11](https://github.com/phpstan/phpstan/releases/tag/1.7.11) (1 day ago)
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.21.0](https://github.com/qossmic/deptrac/releases/tag/0.21.0) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (2 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.1) (4 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.3) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.37](https://github.com/staabm/phpstan-dba/releases/tag/0.2.37) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (2 weeks ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (2 weeks ago)
