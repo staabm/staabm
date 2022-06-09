@@ -37,13 +37,13 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.4) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.40](https://github.com/staabm/phpstan-dba/releases/tag/0.2.40) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.12](https://github.com/phpstan/phpstan/releases/tag/1.7.12) (today)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.3](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.3) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.21.0](https://github.com/qossmic/deptrac/releases/tag/0.21.0) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (3 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.1) (5 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.3) (6 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (2 weeks ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (3 weeks ago)
 - [phpro/soap-client](https://github.com/phpro/soap-client) - [v1.7.4](https://github.com/phpro/soap-client/releases/tag/v1.7.4) (3 weeks ago)
