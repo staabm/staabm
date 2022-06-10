@@ -37,7 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.21.1](https://github.com/qossmic/deptrac/releases/tag/0.21.1) (today)
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.22.0](https://github.com/qossmic/deptrac/releases/tag/0.22.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.4) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.40](https://github.com/staabm/phpstan-dba/releases/tag/0.2.40) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.12](https://github.com/phpstan/phpstan/releases/tag/1.7.12) (1 day ago)
