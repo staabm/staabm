@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.5) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.22.1](https://github.com/qossmic/deptrac/releases/tag/0.22.1) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.4) (3 days ago)
@@ -46,7 +47,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.1) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (3 weeks ago)
-- [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.4](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.4) (3 weeks ago)
 
 ---
 
