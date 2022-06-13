@@ -17,9 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
