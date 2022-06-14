@@ -37,8 +37,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.8) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.13](https://github.com/phpstan/phpstan/releases/tag/1.7.13) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.9](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.9) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.14](https://github.com/phpstan/phpstan/releases/tag/1.7.14) (today)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (2 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.22.1](https://github.com/qossmic/deptrac/releases/tag/0.22.1) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.4) (5 days ago)
