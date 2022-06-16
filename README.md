@@ -37,6 +37,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.2](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.13) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.14](https://github.com/phpstan/phpstan/releases/tag/1.7.14) (2 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (4 days ago)
@@ -45,7 +46,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.40](https://github.com/staabm/phpstan-dba/releases/tag/0.2.40) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.3](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.3) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (1 week ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.1) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.16.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.16.1) (3 weeks ago)
 
 ---
