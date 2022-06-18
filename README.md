@@ -17,12 +17,13 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
@@ -31,7 +32,6 @@ In case I was able to help you out with my contributions in the past, [please co
 - [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (3 weeks ago)
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (3 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) (1 month ago)
 
 ---
 
