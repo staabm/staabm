@@ -29,18 +29,15 @@ In case I was able to help you out with my contributions in the past, [please co
 ---
 
 #### 💻 Check out what I'm currently working on
-{{range recentContributions 15}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
 ---
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) - [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
-{{- end}}
 
----
+see [all my recent activies](https://staabm.github.io/recent-work.html)
+
 
 #### 📫 How to reach me
 
