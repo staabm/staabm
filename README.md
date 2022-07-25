@@ -17,9 +17,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
