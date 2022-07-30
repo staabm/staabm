@@ -10,8 +10,6 @@ For fun and educating myself I actively contribute to various projects - [PHPSta
 
 I am curious and reading a lot regarding latest web technologies, web standards and browser development. My passion is working on performance problems and figuring out crazy bugs 🐜.
 
-Read my [Personal blog](https://staabm.github.io/), about my open source activities.
-
 In case I was able to help you out with my contributions in the past, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
 
 
@@ -19,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 ---
 
