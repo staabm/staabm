@@ -19,9 +19,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 ---
 
