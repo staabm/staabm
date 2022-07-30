@@ -10,6 +10,8 @@ For fun and educating myself I actively contribute to various projects - [PHPSta
 
 I am curious and reading a lot regarding latest web technologies, web standards and browser development. My passion is working on performance problems and figuring out crazy bugs 🐜.
 
+Read my [Personal blog](https://staabm.github.io/), about my open source activities.
+
 In case I was able to help you out with my contributions in the past, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
 
 
