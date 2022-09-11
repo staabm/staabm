@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 
 ---
 
