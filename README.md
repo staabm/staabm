@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) (3 days ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
-- [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) (4 days ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
+- [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (5 days ago)
 
 ---
 
