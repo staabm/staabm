@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 ---
 
