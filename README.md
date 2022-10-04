@@ -20,8 +20,8 @@ In case I was able to help you out with my contributions in the past, [please co
 - [zf1s/zf1](https://github.com/zf1s/zf1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 
 ---
 
