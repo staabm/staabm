@@ -19,9 +19,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 ---
 
