@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
 ---
 
