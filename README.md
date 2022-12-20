@@ -18,10 +18,10 @@ In case I was able to help you out with my contributions in the past, [please co
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) (3 days ago)
 
 ---
 
@@ -32,6 +32,5 @@ see [all my recent activies](https://staabm.github.io/recent-work.html)
 #### 📫 How to reach me
 
 <p align="center">
-<a href="[https://twitter.com/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="@markusstaab at mastodon" height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@markusstaab at twitter" height="30" width="30" /></a>
+<a href="https://twitter.com/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@markusstaab" height="30" width="30" /></a>
 </p>
