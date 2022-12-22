@@ -32,6 +32,6 @@ see [all my recent activies](https://staabm.github.io/recent-work.html)
 #### 📫 How to reach me
 
 <p align="center">
-  <a href="[https://twitter.com/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="@markusstaab at mastodon" height="30" width="30" /></a>&nbsp;
+  <a href="https://phpc.social/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="@markusstaab at mastodon" height="30" width="30" /></a>&nbsp;
   <a href="https://twitter.com/@markusstaab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@markusstaab at twitter" height="30" width="30" /></a>
 </p>
