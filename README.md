@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 ---
 
