@@ -21,7 +21,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 ---
 
