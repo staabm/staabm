@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [composer/composer](https://github.com/composer/composer) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
 
 ---
 
