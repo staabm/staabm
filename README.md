@@ -19,9 +19,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (2 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
 
 ---
 
