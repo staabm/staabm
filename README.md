@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) (5 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 
 ---
 
