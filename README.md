@@ -19,9 +19,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 weeks ago)
 
 ---
 
