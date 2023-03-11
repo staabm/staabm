@@ -17,7 +17,7 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
