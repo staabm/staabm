@@ -19,8 +19,8 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 
 ---
