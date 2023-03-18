@@ -18,10 +18,10 @@ In case I was able to help you out with my contributions in the past, [please co
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 
 ---
 
