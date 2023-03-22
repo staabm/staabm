@@ -17,11 +17,11 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 
 ---
 
