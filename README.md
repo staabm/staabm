@@ -17,10 +17,10 @@ In case I was able to help you out with my contributions in the past, [please co
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 
 ---
