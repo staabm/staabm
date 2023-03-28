@@ -20,7 +20,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (1 day ago)
+- [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 
 ---
