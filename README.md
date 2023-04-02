@@ -21,7 +21,7 @@ In case I was able to help you out with my contributions in the past, [please co
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 
 ---
 
