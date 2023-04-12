@@ -21,9 +21,9 @@ In case I was able to help you out with my contributions in the past, [please co
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 ---
 
