@@ -21,9 +21,9 @@ If one of those open source projects is critical for your business, [please cons
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 ---
 
