@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 
 ---
 
