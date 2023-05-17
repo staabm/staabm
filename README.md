@@ -28,7 +28,7 @@ If one of those open source projects is critical for your business, [please cons
 ---
 
 
-see [all my recent activies](https://staabm.github.io/recent-work.html)
+see [all my recent activities](https://staabm.github.io/recent-work.html)
 
 
 #### 📫 How to reach me
