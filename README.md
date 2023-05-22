@@ -21,8 +21,8 @@ If one of those open source projects is critical for your business, [please cons
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 
 ---
