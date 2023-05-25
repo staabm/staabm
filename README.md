@@ -19,10 +19,10 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 ---
