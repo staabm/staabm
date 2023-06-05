@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (6 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 ---
 
