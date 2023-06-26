@@ -19,9 +19,9 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 
