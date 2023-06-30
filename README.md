@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 ---
 
