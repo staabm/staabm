@@ -23,7 +23,7 @@ If one of those open source projects is critical for your business, [please cons
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 
 ---
 
