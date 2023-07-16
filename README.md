@@ -20,8 +20,8 @@ If one of those open source projects is critical for your business, [please cons
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (5 days ago)
 
