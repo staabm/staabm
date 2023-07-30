@@ -21,8 +21,8 @@ If one of those open source projects is critical for your business, [please cons
 
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [nette/utils](https://github.com/nette/utils) (today)
 
 ---
