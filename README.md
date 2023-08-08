@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 
 ---
 
