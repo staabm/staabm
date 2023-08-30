@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (6 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (1 week ago)
 
 ---
 
