@@ -20,10 +20,10 @@ If one of those open source projects is critical for your business, [please cons
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [composer/pcre](https://github.com/composer/pcre) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 ---
 
