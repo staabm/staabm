@@ -19,7 +19,7 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
