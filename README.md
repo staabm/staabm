@@ -19,10 +19,10 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 
 ---
