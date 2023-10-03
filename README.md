@@ -19,7 +19,7 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 day ago)
+- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
