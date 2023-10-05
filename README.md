@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 
 ---
 
