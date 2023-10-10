@@ -19,10 +19,10 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (6 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 ---
