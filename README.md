@@ -20,10 +20,10 @@ If one of those open source projects is critical for your business, [please cons
 #### 💻 Check out what I'm currently working on
 
 - [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (today)
-- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 ---
 
