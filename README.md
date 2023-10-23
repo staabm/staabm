@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 ---
 
