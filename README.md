@@ -23,7 +23,7 @@ If one of those open source projects is critical for your business, [please cons
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 week ago)
 
 ---
 
