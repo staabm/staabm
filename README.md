@@ -21,9 +21,9 @@ If one of those open source projects is critical for your business, [please cons
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 ---
 
