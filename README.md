@@ -20,8 +20,8 @@ If one of those open source projects is critical for your business, [please cons
 #### 💻 Check out what I'm currently working on
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
