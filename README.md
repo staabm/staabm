@@ -19,11 +19,11 @@ If one of those open source projects is critical for your business, [please cons
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
-- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 day ago)
+- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (1 day ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 
 ---
 
