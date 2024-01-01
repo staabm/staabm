@@ -12,15 +12,16 @@ For fun and educating myself I actively contribute to various projects - [REDAXO
 
 Turns out I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
 
-If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
+If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm).
+I am also available for [paid support of PHPStan](https://staabm.github.io/2024/01/01/phpstan-customizing.html) and related static analysis tooling.
 
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (6 days ago)
