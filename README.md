@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (2 days ago)
-- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (3 days ago)
+- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 
 ---
 
