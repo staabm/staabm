@@ -20,10 +20,10 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (4 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 
 ---
