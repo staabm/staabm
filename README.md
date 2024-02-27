@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
 
 ---
 
