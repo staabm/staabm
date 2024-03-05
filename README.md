@@ -24,7 +24,7 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (2 weeks ago)
 
 ---
 
