@@ -21,10 +21,10 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 
 ---
 
