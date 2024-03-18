@@ -24,7 +24,7 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 ---
 
