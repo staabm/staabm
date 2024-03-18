@@ -21,10 +21,10 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 ---
 
