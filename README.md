@@ -22,8 +22,8 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 ---
