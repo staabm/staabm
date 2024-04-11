@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (4 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 ---
 
