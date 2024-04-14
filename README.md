@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 
 ---
 
