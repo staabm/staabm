@@ -23,8 +23,8 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 
 ---
 
