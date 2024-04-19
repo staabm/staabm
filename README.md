@@ -22,9 +22,9 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 
 ---
 
