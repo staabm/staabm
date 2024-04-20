@@ -24,7 +24,7 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 ---
 
