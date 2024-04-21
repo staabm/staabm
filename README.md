@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 ---
 
