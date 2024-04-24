@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 
 ---
 
