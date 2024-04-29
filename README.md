@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
-- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (5 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
+- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (6 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 
 ---
 
