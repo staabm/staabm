@@ -22,9 +22,9 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 - [php/doc-en](https://github.com/php/doc-en) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [ramsey/uuid](https://github.com/ramsey/uuid) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 ---
 
