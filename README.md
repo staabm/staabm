@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
+- [php/doc-en](https://github.com/php/doc-en) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 ---
 
