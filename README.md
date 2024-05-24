@@ -21,8 +21,8 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
