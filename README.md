@@ -20,7 +20,7 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
