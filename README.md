@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [spatie/once](https://github.com/spatie/once) (4 days ago)
-- [orisai/scheduler](https://github.com/orisai/scheduler) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [spatie/once](https://github.com/spatie/once) (5 days ago)
+- [orisai/scheduler](https://github.com/orisai/scheduler) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 ---
 
