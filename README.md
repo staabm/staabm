@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 
 ---
 
