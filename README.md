@@ -23,8 +23,8 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) (4 days ago)
-- [orisai/scheduler](https://github.com/orisai/scheduler) (6 days ago)
 
 ---
 
