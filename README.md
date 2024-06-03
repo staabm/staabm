@@ -22,9 +22,9 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 
 ---
 
