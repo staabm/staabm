@@ -24,7 +24,7 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 ---
 
