@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 day ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 days ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (3 days ago)
 
 ---
 
