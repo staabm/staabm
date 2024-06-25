@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 
 ---
 
