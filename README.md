@@ -24,7 +24,7 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 ---
 
