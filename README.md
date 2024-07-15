@@ -20,9 +20,9 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
