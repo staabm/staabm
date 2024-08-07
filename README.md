@@ -20,11 +20,11 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) (5 days ago)
 
 ---
 
