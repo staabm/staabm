@@ -25,11 +25,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 
 ---
 
