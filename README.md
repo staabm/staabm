@@ -25,11 +25,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [php/doc-en](https://github.com/php/doc-en) (1 week ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 
 ---
 
