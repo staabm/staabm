@@ -29,7 +29,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 ---
 
