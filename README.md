@@ -25,10 +25,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 
 ---
