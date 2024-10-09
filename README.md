@@ -26,10 +26,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 
 ---
 
