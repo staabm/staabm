@@ -28,8 +28,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 
 ---
 
