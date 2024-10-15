@@ -25,11 +25,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (4 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
 
 ---
 
