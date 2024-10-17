@@ -25,9 +25,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
