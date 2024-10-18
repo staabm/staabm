@@ -29,7 +29,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 ---
 
