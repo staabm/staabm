@@ -27,8 +27,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 
 ---
