@@ -29,7 +29,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 ---
 
