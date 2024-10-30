@@ -26,10 +26,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 ---
 
