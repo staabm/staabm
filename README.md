@@ -35,11 +35,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 day ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 days ago)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 day ago)
 
 ---
 
