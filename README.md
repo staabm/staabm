@@ -23,7 +23,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ---
 
-### 📰 Recent articles on [staabm.github.io/](https://staabm.github.io/)
+### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
 - [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 week ago)
 - [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (3 months ago)
