@@ -36,6 +36,13 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ---
 
+### Recent articles on [staabm.github.io/](https://staabm.github.io/)
+{{range rss "https://staabm.github.io/feed.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+---
+
 #### 💻 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
