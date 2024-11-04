@@ -37,8 +37,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [php/php-src](https://github.com/php/php-src) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 
 ---
