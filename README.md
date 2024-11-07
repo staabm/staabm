@@ -39,7 +39,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) (5 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 ---
 
