@@ -28,17 +28,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (3 weeks ago)
 - [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (4 months ago)
 - [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (4 months ago)
-- [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (9 months ago)
+- [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (10 months ago)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (10 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
 
 ---
