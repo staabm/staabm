@@ -35,11 +35,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
+- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 ---
 
