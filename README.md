@@ -25,8 +25,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 day ago)
-- [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (4 days ago)
+- [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (2 days ago)
+- [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (5 days ago)
 - [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
 - [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (4 months ago)
 - [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (4 months ago)
@@ -35,10 +35,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
 
 ---
