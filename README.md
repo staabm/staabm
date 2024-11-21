@@ -25,8 +25,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (3 days ago)
-- [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (6 days ago)
+- [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (4 days ago)
+- [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (1 week ago)
 - [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
 - [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (4 months ago)
 - [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (4 months ago)
@@ -35,11 +35,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [composer/pcre](https://github.com/composer/pcre) (today)
-- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [composer/pcre](https://github.com/composer/pcre) (1 day ago)
+- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 day ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 ---
 
