@@ -35,11 +35,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (3 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (4 days ago)
 
 ---
 
