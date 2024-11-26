@@ -6,7 +6,7 @@ My name is Markus Staab, a open source enthusiast since 2008 ✨.
 
 <img width="200" alt="Markus Staab - open-source lover, creator of staabm/phpstan-dba, staabm/phpstan-todo-by, rexstan and rexfactor." style="float: right;" src="https://user-images.githubusercontent.com/120441/230766751-c3d8e9ca-0c05-4c2f-b920-ef0e39930e4b.png">
 
-I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
+I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm), [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged) and [PHPUnit](https://github.com/sebastianbergmann/phpunit/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
 
 Below you can find a list of my personal contribution highlights:
 - [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
