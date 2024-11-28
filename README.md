@@ -26,11 +26,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Phpstan Mixed Types](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (2 days ago)
-- [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 week ago)
-- [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 weeks ago)
-- [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
-- [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (4 months ago)
+- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (today)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (2 days ago)
+- [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 week ago)
+- [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 weeks ago)
+- [PHPUnit codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
 
 ---
 
