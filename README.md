@@ -26,8 +26,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (1 day ago)
-- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (3 days ago)
+- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (2 days ago)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (4 days ago)
 - [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 week ago)
 - [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 weeks ago)
 - [PHPUnit codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 day ago)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (2 days ago)
 
 ---
 
