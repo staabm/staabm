@@ -26,21 +26,21 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (6 days ago)
+- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (1 week ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (1 week ago)
 - [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (2 weeks ago)
-- [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 weeks ago)
+- [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (3 weeks ago)
 - [PHPUnit codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 ---
 
