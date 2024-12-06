@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 ---
 
