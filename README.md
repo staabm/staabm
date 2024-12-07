@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
 
 ---
 
