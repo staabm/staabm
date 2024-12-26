@@ -37,10 +37,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 
 ---
 
