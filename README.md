@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 ---
 
