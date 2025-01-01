@@ -26,7 +26,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (2 weeks ago)
+- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (3 weeks ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (1 month ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (1 month ago)
 - [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 month ago)
@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 
 ---
 
