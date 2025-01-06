@@ -37,8 +37,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 - [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (4 days ago)
 
