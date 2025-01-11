@@ -38,8 +38,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (4 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 
 ---
