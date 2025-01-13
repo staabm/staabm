@@ -30,17 +30,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (1 month ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (1 month ago)
 - [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 month ago)
-- [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (1 month ago)
+- [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 ---
 
