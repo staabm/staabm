@@ -36,10 +36,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (5 days ago)
-- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 
 ---
