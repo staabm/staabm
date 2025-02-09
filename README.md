@@ -27,7 +27,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (2 weeks ago)
-- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (1 month ago)
+- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (2 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (2 months ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (2 months ago)
 - [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (2 months ago)
