@@ -29,17 +29,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (2 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (3 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (3 months ago)
-- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (3 months ago)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (4 months ago)
 - [PHPStan performance on different hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (4 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 
 ---
