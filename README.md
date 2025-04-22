@@ -36,8 +36,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
