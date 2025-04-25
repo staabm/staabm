@@ -30,16 +30,16 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (3 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (4 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (4 months ago)
-- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (4 months ago)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (5 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (5 days ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 ---
