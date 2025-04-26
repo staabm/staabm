@@ -38,8 +38,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (4 days ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 
 ---
