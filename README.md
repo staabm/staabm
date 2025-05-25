@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (4 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 ---
 
