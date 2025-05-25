@@ -30,17 +30,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (4 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (5 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (5 months ago)
-- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (5 months ago)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (6 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (3 days ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (3 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (4 days ago)
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (4 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 ---
 
