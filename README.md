@@ -29,17 +29,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (1 month ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (4 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (5 months ago)
-- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (5 months ago)
+- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (6 months ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (6 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (5 days ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (6 days ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (6 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
 ---
