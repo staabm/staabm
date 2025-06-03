@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [filp/whoops](https://github.com/filp/whoops) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (4 days ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 ---
 
