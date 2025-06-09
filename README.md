@@ -28,7 +28,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (1 month ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (4 months ago)
-- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (5 months ago)
+- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (6 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (6 months ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (6 months ago)
 
@@ -36,10 +36,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
-- [filp/whoops](https://github.com/filp/whoops) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (3 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (5 days ago)
+- [filp/whoops](https://github.com/filp/whoops) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 ---
