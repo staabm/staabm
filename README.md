@@ -36,9 +36,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
-- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (4 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (5 days ago)
 - [filp/whoops](https://github.com/filp/whoops) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
