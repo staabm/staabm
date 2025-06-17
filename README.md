@@ -36,10 +36,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (6 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 week ago)
-- [filp/whoops](https://github.com/filp/whoops) (1 week ago)
+- [filp/whoops](https://github.com/filp/whoops) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 ---
