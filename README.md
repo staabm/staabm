@@ -36,10 +36,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [infection/site](https://github.com/infection/site) (4 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [infection/site](https://github.com/infection/site) (5 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 week ago)
 
 ---
