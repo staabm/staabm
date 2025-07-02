@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (6 days ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 ---
 
