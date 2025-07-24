@@ -30,17 +30,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (6 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (7 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (7 months ago)
-- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (7 months ago)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (8 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (6 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 ---
 
