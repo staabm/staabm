@@ -36,10 +36,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 ---
