@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 ---
 
