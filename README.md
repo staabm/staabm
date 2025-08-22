@@ -26,9 +26,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (2 weeks ago)
+- [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (3 weeks ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (4 months ago)
-- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (6 months ago)
+- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (7 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (8 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (8 months ago)
 
