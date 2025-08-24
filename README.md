@@ -40,7 +40,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [nette/coding-standard](https://github.com/nette/coding-standard) (1 week ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
 
 ---
 
