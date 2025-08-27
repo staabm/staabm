@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 ---
 
