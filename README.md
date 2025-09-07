@@ -39,8 +39,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (6 days ago)
 
 ---
 
