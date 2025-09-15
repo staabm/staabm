@@ -39,8 +39,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 ---
 
