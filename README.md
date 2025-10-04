@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
 
 ---
 
