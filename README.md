@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 
 ---
 
