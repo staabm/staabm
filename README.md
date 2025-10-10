@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [infection/site](https://github.com/infection/site) (today)
+- [staabm/infection-example](https://github.com/staabm/infection-example) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
-- [staabm/infection-example](https://github.com/staabm/infection-example) (today)
-- [infection/site](https://github.com/infection/site) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 
 ---
 
