@@ -38,9 +38,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [infection/site](https://github.com/infection/site) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [staabm/infection-example](https://github.com/staabm/infection-example) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 
 ---
 
