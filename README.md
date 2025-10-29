@@ -40,7 +40,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) (2 days ago)
 
 ---
 
