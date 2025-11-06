@@ -29,18 +29,18 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (3 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (6 months ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (9 months ago)
-- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (10 months ago)
+- [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (11 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (11 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
-- [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) (2 days ago)
 
 ---
 
