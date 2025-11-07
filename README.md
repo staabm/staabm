@@ -36,8 +36,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (2 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
