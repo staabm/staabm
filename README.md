@@ -38,9 +38,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 
 ---
 
