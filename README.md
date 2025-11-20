@@ -38,8 +38,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 ---
