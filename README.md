@@ -29,18 +29,18 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (2 weeks ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (3 weeks ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (4 months ago)
-- [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (7 months ago)
+- [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (8 months ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (10 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [php/doc-en](https://github.com/php/doc-en) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 
 ---
 
