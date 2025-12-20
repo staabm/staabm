@@ -30,15 +30,15 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (1 month ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (4 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (8 months ago)
-- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (10 months ago)
+- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (11 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
