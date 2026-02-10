@@ -26,7 +26,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (2 days ago)
+- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (3 days ago)
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (2 weeks ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (2 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (2 months ago)
@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 
 ---
 
