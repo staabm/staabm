@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 
 ---
 
