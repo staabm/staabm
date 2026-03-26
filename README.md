@@ -27,8 +27,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (1 month ago)
-- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (1 month ago)
-- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (3 months ago)
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (2 months ago)
+- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (4 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (4 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (7 months ago)
 
@@ -36,8 +36,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
