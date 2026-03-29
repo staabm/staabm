@@ -37,10 +37,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 week ago)
 
 ---
 
