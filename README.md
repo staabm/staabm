@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
 
 ---
 
