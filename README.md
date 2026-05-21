@@ -38,8 +38,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 
 ---
