@@ -30,17 +30,17 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (4 months ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (6 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (6 months ago)
-- [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (9 months ago)
+- [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (10 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 
 ---
 
