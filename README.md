@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
 
 ---
 
