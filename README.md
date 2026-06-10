@@ -37,10 +37,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [larastan/larastan](https://github.com/larastan/larastan) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
+- [larastan/larastan](https://github.com/larastan/larastan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 
 ---
 
