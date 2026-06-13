@@ -29,18 +29,18 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (4 months ago)
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (4 months ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (6 months ago)
-- [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (6 months ago)
+- [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (7 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (10 months ago)
 
 ---
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) (4 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 
 ---
 
