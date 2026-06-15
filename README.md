@@ -38,8 +38,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [php/web-php](https://github.com/php/web-php) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
 
 ---
