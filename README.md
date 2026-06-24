@@ -27,8 +27,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (4 months ago)
-- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (4 months ago)
-- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (6 months ago)
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (5 months ago)
+- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (7 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (7 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (10 months ago)
 
@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (6 days ago)
 
 ---
 
