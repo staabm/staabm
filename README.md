@@ -37,7 +37,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
