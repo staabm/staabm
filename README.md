@@ -37,10 +37,10 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (4 days ago)
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 ---
 
