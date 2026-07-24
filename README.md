@@ -27,8 +27,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (5 months ago)
-- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (5 months ago)
-- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (7 months ago)
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (6 months ago)
+- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (8 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (8 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (11 months ago)
 
@@ -36,9 +36,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (4 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
