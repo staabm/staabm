@@ -26,7 +26,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
-- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (5 months ago)
+- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (6 months ago)
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (6 months ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (8 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (8 months ago)
@@ -36,9 +36,9 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 week ago)
 
