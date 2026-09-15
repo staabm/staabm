@@ -36,8 +36,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
