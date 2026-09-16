@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [composer/packagist](https://github.com/composer/packagist) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) (3 days ago)
 
 ---
 
