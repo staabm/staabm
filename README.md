@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [deptrac/deptrac](https://github.com/deptrac/deptrac) (today)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
-- [kimai/kimai](https://github.com/kimai/kimai) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
+- [deptrac/deptrac](https://github.com/deptrac/deptrac) (1 day ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
+- [kimai/kimai](https://github.com/kimai/kimai) (3 days ago)
 
 ---
 
