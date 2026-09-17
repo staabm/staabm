@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [composer/packagist](https://github.com/composer/packagist) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) (1 day ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
+- [composer/packagist](https://github.com/composer/packagist) (1 day ago)
 
 ---
 
