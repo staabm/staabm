@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [composer/composer](https://github.com/composer/composer) (1 day ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) (2 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 
 ---
 
