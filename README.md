@@ -39,8 +39,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 ---
 
