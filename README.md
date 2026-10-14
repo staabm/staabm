@@ -38,7 +38,7 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
 
