@@ -27,8 +27,8 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 ### Recent articles on [staabm.github.io/](https://staabm.github.io/)
 
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (9 months ago)
-- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (9 months ago)
-- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (11 months ago)
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (10 months ago)
+- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (1 year ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (1 year ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (1 year ago)
 
@@ -36,11 +36,11 @@ For fun and educating myself I contributed to various projects - [REDAXO](https:
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
-- [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 ---
 
